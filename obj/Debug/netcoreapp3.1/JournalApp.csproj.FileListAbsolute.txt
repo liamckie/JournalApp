@@ -1,0 +1,12 @@
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\bin\Debug\netcoreapp3.1\JournalApp.exe
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\bin\Debug\netcoreapp3.1\JournalApp.deps.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\bin\Debug\netcoreapp3.1\JournalApp.runtimeconfig.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\bin\Debug\netcoreapp3.1\JournalApp.runtimeconfig.dev.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\bin\Debug\netcoreapp3.1\JournalApp.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\bin\Debug\netcoreapp3.1\JournalApp.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.AssemblyInfoInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.AssemblyInfo.cs
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.csproj.CoreCompileInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.genruntimeconfig.cache
